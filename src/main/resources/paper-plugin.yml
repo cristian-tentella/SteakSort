@@ -1,0 +1,4 @@
+name: SteakSort
+version: '${version}'
+main: io.github.cristiantentella.steaksort.SteakSort
+api-version: '1.20'
